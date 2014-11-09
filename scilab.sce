@@ -3,7 +3,6 @@ clear
 PORT = "/dev/ttyACM0"; //Real
 offset = 80e-3;
 
-
 data = [%nan %nan %nan %nan %nan %nan %nan];
 //data = [1 2 3 4 5 6 7]; //Test
 data2 = [%nan %nan %nan %nan %nan %nan %nan];
